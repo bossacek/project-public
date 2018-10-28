@@ -1,0 +1,18 @@
+{
+    "name": "blackiesp/project-public",
+    "description": "Public TEST project - no functionality",
+    "homepage": "https://github.com/bossacek/project-public",
+    "license": "MIT",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Petr Kos",
+            "homepage": "http://blackies.net",
+            "email": "kos@blackies.net"
+        }
+    ],
+    "require": {
+        "php": ">=5.5",
+        "ext-imap": "*"
+    },
+}
