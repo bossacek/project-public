@@ -12,8 +12,7 @@
         }
     ],
     "require": {
-        "php": ">=5.5",
-        "ext-imap": "*"
+        "php": ">=5.5"
     },
     "autoload": {
         "psr-4": {
