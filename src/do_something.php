@@ -1,5 +1,10 @@
 <?php 
 
-echo "Hello world!\n";
+class HelloWorld {
+
+  public function run() {
+    echo "Hello world!\n";
+  }
+}
 
 ?>
