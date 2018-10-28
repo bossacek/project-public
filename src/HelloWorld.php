@@ -3,7 +3,7 @@
 class HelloWorld {
 
   public function run() {
-    echo "Hello world!\n";
+    return "Hello world!";
   }
 }
 
